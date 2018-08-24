@@ -1,6 +1,6 @@
 # PhxBlog
 
-Simple Blog made using Elixir + Phoenix
+Simple Blog made using Elixir + Phoenix made up from the following tutorial: https://www.monterail.com/blog/2015/phoenix-blog
 
 To start your Phoenix app:
 
